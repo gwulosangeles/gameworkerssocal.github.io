@@ -1,0 +1,8 @@
+.parallax-splash {
+    /* background-image: url(images/header/los-angeles-1790986.jpg); */
+    background: linear-gradient( rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 1)), url(images/header/los-angeles-1790986.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
